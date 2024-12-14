@@ -1,61 +1,40 @@
-[02:18:06] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[02:18:07] [main/INFO]: Loading 6 mods:
+[13:46:12] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[13:46:12] [main/INFO]: Loading 6 mods:
 	- carpet 1.4.158+v241022
 	- carpet-extra 1.4.158
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.3
-[02:18:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:18:07] [main/INFO]: Compatibility level set to JAVA_17
-[02:18:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:18:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:18:19] [main/INFO]: Loaded 1337 recipes
-[02:18:19] [main/INFO]: Loaded 1448 advancements
-[02:18:19] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:18:19] [Server thread/INFO]: Loading properties
-[02:18:19] [Server thread/INFO]: Default game type: SURVIVAL
-[02:18:19] [Server thread/INFO]: Generating keypair
-[02:18:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:18:19] [Server thread/INFO]: Using epoll channel type
-[02:18:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:18:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:18:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:18:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:18:19] [Server thread/INFO]: Preparing level "world"
-[02:18:19] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
-[02:18:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[02:18:23] [Server thread/INFO]: Time elapsed: 3183 ms
-[02:18:23] [Server thread/INFO]: cs app loaded with /cs command
-[02:18:23] [Server thread/INFO]: App cs loaded in 21 ms
-[02:18:23] [Server thread/INFO]: Done (3.687s)! For help, type "help"
-[02:19:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:25:49] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50130] logged in with entity id 2 at (-2055.8744473405523, 92.0, 940.5587461370926)
-[02:25:49] [Server thread/INFO]: stevencrazy317 joined the game
-[02:25:51] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[02:26:15] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[02:26:15] [Server thread/INFO]: stevencrazy317 left the game
-[02:27:15] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:29:04] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50160] logged in with entity id 325 at (-2055.8744473405523, 92.0, 940.5587461370926)
-[02:29:04] [Server thread/INFO]: stevencrazy317 joined the game
-[02:29:04] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[02:31:07] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[02:31:07] [Server thread/INFO]: stevencrazy317 left the game
-[02:31:17] [Server thread/INFO]: Stopping the server
-[02:31:17] [Server thread/INFO]: Stopping server
-[02:31:17] [Server thread/INFO]: Saving players
-[02:31:17] [Server thread/INFO]: Saving worlds
-[02:31:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:31:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:31:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:31:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:31:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:31:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:31:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:46:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:46:12] [main/INFO]: Compatibility level set to JAVA_17
+[13:46:13] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13:46:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:46:20] [main/INFO]: Loaded 1337 recipes
+[13:46:20] [main/INFO]: Loaded 1448 advancements
+[13:46:20] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[13:46:20] [Server thread/INFO]: Loading properties
+[13:46:20] [Server thread/INFO]: Default game type: SURVIVAL
+[13:46:20] [Server thread/INFO]: Generating keypair
+[13:46:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:46:20] [Server thread/INFO]: Using epoll channel type
+[13:46:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:46:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:46:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:46:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:46:20] [Server thread/INFO]: Preparing level "world"
+[13:46:20] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
+[13:46:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:46:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:46:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:46:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:46:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:46:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:46:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:46:24] [Server thread/INFO]: Time elapsed: 2865 ms
+[13:46:24] [Server thread/INFO]: cs app loaded with /cs command
+[13:46:24] [Server thread/INFO]: App cs loaded in 13 ms
+[13:46:24] [Server thread/INFO]: Done (3.327s)! For help, type "help"
+[13:47:01] [Server thread/INFO]: stevencrazy317[/100.99.54.86:49921] logged in with entity id 2 at (-2060.5504768636565, 92.0, 940.1767503533894)
+[13:47:01] [Server thread/INFO]: stevencrazy317 joined the game
+[13:47:06] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
