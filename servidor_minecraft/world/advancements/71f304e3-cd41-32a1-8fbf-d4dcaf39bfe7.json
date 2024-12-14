@@ -17,6 +17,7 @@
       "minecraft:lukewarm_ocean": "2024-12-13 00:47:04 +0000",
       "minecraft:stony_shore": "2024-12-14 01:04:18 +0000",
       "minecraft:dripstone_caves": "2024-12-14 01:29:27 +0000",
+      "minecraft:deep_dark": "2024-12-14 01:34:54 +0000",
       "minecraft:ocean": "2024-11-13 02:49:31 +0000",
       "minecraft:jungle": "2024-12-14 01:04:12 +0000",
       "minecraft:swamp": "2024-11-13 03:16:06 +0000",
@@ -1905,6 +1906,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-14 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 01:32:41 +0000"
     },
     "done": true
   },
