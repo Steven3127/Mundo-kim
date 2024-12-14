@@ -11,11 +11,12 @@
       "minecraft:beach": "2024-11-13 03:25:04 +0000",
       "minecraft:stony_peaks": "2024-12-14 00:56:05 +0000",
       "minecraft:forest": "2024-12-14 00:45:01 +0000",
-      "minecraft:ocean": "2024-11-13 02:31:23 +0000",
-      "minecraft:jungle": "2024-12-14 00:52:26 +0000",
       "minecraft:deep_ocean": "2024-11-23 01:54:03 +0000",
       "minecraft:river": "2024-11-17 05:58:56 +0000",
       "minecraft:lukewarm_ocean": "2024-12-13 00:47:05 +0000",
+      "minecraft:dripstone_caves": "2024-12-14 01:29:28 +0000",
+      "minecraft:ocean": "2024-11-13 02:31:23 +0000",
+      "minecraft:jungle": "2024-12-14 00:52:26 +0000",
       "minecraft:swamp": "2024-11-13 02:17:22 +0000",
       "minecraft:savanna": "2024-12-13 00:41:14 +0000",
       "minecraft:plains": "2024-11-13 02:14:51 +0000"
@@ -2092,6 +2093,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-14 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-14 01:29:30 +0000"
     },
     "done": true
   },
