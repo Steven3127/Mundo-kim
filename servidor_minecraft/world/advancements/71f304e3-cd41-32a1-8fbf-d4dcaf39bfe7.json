@@ -9,6 +9,8 @@
     "criteria": {
       "minecraft:flower_forest": "2024-11-17 05:57:21 +0000",
       "minecraft:beach": "2024-11-13 03:25:17 +0000",
+      "minecraft:stony_peaks": "2024-12-14 01:00:48 +0000",
+      "minecraft:forest": "2024-12-14 00:44:49 +0000",
       "minecraft:ocean": "2024-11-13 02:49:31 +0000",
       "minecraft:deep_ocean": "2024-12-12 00:46:11 +0000",
       "minecraft:river": "2024-11-22 02:31:35 +0000",
@@ -723,7 +725,8 @@
       "cooked_chicken": "2024-12-12 00:43:31 +0000",
       "rotten_flesh": "2024-12-12 00:49:15 +0000",
       "cooked_mutton": "2024-11-13 02:41:51 +0000",
-      "cooked_beef": "2024-11-13 02:30:58 +0000"
+      "cooked_beef": "2024-11-13 02:30:58 +0000",
+      "porkchop": "2024-12-14 00:51:42 +0000"
     },
     "done": false
   },
@@ -1877,9 +1880,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-14 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-14 00:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-14 00:55:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-12-14 00:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 00:59:05 +0000"
     },
     "done": true
   },

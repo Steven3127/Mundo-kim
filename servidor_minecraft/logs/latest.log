@@ -42,3 +42,16 @@
 [00:37:42] [Server thread/INFO]: stevencrazy317 joined the game
 [00:37:45] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
 [00:39:00] [Server thread/INFO]: [Not Secure] <kimbely> -500-100
+[00:46:41] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[00:46:41] [Server thread/INFO]: stevencrazy317 left the game
+[00:47:11] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50063] logged in with entity id 3888 at (-1933.2200311278903, 71.5625, 246.6876086699778)
+[00:47:11] [Server thread/INFO]: stevencrazy317 joined the game
+[00:47:12] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[00:49:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2008, y=69, z=317} class_2338{x=-2008, y=69, z=318}
+[00:49:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2008, y=69, z=317} class_2338{x=-2008, y=69, z=318}
+[00:49:37] [Server thread/INFO]: Locating element minecraft:village_plains took 863 ms
+[00:50:44] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
+[00:54:41] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
+[00:58:30] [Server thread/INFO]: stevencrazy317 was killed
+[00:58:30] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
+[01:01:32] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to kimbely]
