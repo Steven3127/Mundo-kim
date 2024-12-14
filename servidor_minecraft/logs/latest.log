@@ -61,3 +61,24 @@
 [14:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3140ms or 62 ticks behind
 [14:41:45] [Server thread/INFO]: stevencrazy317 was killed
 [14:41:45] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
+[14:48:08] [Server thread/INFO]: stevencrazy317 lost connection: Timed out
+[14:48:08] [Server thread/INFO]: stevencrazy317 left the game
+[14:48:08] [Server thread/WARN]: handleDisconnection() called twice
+[14:49:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:49:00] [Server thread/INFO]: a<--[HERE]
+[14:49:07] [Server thread/INFO]: stevencrazy317[/100.99.54.86:60113] logged in with entity id 9835 at (-2045.8378250316835, 89.0, 942.2133725565178)
+[14:49:07] [Server thread/INFO]: stevencrazy317 joined the game
+[14:49:08] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[14:56:13] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[14:56:13] [Server thread/INFO]: stevencrazy317 left the game
+[14:56:20] [Server thread/INFO]: Stopping the server
+[14:56:21] [Server thread/INFO]: Stopping server
+[14:56:21] [Server thread/INFO]: Saving players
+[14:56:21] [Server thread/INFO]: Saving worlds
+[14:56:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:56:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:56:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
