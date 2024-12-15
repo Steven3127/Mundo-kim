@@ -40,3 +40,13 @@
 [13:37:42] [Server thread/INFO]: stevencrazy317[/100.99.54.86:55066] logged in with entity id 2 at (-2029.610033374745, 78.0, 945.6999999880791)
 [13:37:42] [Server thread/INFO]: stevencrazy317 joined the game
 [13:37:44] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[13:45:47] [Server thread/INFO]: stevencrazy317 fell from a high place
+[13:52:27] [Server thread/INFO]: [stevencrazy317: Set own game mode to Creative Mode]
+[13:52:55] [Server thread/INFO]: Villager class_1646['Villager'/3504, l='ServerLevel[world]', x=-2028.50, y=84.00, z=942.50] died, message: 'Villager suffocated in a wall'
+[13:53:34] [Server thread/INFO]: Villager class_1646['Villager'/3499, l='ServerLevel[world]', x=-2029.30, y=82.00, z=947.66] died, message: 'Villager was slain by stevencrazy317'
+[13:53:41] [Server thread/INFO]: Villager class_1646['Villager'/3502, l='ServerLevel[world]', x=-2030.85, y=82.02, z=946.15] died, message: 'Villager was slain by stevencrazy317'
+[13:53:49] [Server thread/INFO]: Villager class_1646['Villager'/3648, l='ServerLevel[world]', x=-2030.70, y=82.05, z=946.50] died, message: 'Villager suffocated in a wall while fighting stevencrazy317'
+[13:54:00] [Server thread/INFO]: Villager class_1646['Villager'/3664, l='ServerLevel[world]', x=-2030.70, y=82.05, z=946.43] died, message: 'Villager suffocated in a wall while fighting stevencrazy317'
+[13:54:49] [Server thread/INFO]: Villager class_1646['Villager'/3690, l='ServerLevel[world]', x=-2029.70, y=82.19, z=947.32] died, message: 'Villager was slain by stevencrazy317'
+[13:54:55] [Server thread/INFO]: Villager class_1646['Villager'/3693, l='ServerLevel[world]', x=-2029.47, y=82.65, z=946.74] died, message: 'Villager was slain by stevencrazy317'
+[13:55:19] [Server thread/INFO]: [stevencrazy317: Set own game mode to Survival Mode]
