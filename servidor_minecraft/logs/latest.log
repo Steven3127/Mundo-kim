@@ -43,3 +43,18 @@
 [00:02:01] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
 [00:02:25] [Server thread/INFO]: [stevencrazy317: Set own game mode to Creative Mode]
 [00:02:52] [Server thread/INFO]: [stevencrazy317: Set own game mode to Survival Mode]
+[00:32:33] [Server thread/INFO]: stevencrazy317 was killed
+[00:32:33] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
+[00:45:44] [Server thread/INFO]: Stopping the server
+[00:45:44] [Server thread/INFO]: Stopping server
+[00:45:44] [Server thread/INFO]: Saving players
+[00:45:44] [Server thread/INFO]: stevencrazy317 lost connection: Server closed
+[00:45:44] [Server thread/INFO]: stevencrazy317 left the game
+[00:45:44] [Server thread/INFO]: Saving worlds
+[00:45:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:45:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:45:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:45:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:45:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:45:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:45:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
