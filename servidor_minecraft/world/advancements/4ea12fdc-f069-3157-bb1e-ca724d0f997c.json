@@ -2380,12 +2380,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
-    "criteria": {
-      "has_bamboo_slab": "2024-12-15 00:27:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-15 00:13:40 +0000"
@@ -2395,6 +2389,12 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-15 00:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2024-12-15 00:27:05 +0000"
     },
     "done": true
   },
