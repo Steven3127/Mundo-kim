@@ -2320,6 +2320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-12-14 14:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-14 14:49:58 +0000"
@@ -2335,12 +2341,6 @@
   "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
       "has_planks": "2024-12-14 14:49:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2024-12-14 14:49:53 +0000"
     },
     "done": true
   },
@@ -2377,6 +2377,18 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2024-12-14 14:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 00:13:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-15 00:13:40 +0000"
     },
     "done": true
   },

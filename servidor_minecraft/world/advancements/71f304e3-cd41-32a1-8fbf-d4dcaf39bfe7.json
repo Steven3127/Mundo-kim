@@ -1885,7 +1885,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 00:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-14 00:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-14 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-14 00:53:34 +0000"
     },
@@ -1909,39 +1933,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-14 01:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-14 00:39:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2024-12-14 00:53:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2024-12-14 00:53:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-14 00:59:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_log": "2024-12-14 00:39:40 +0000"
+      "has_water_bucket": "2024-12-14 01:32:41 +0000"
     },
     "done": true
   },
