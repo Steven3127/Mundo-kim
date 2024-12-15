@@ -50,3 +50,16 @@
 [13:54:49] [Server thread/INFO]: Villager class_1646['Villager'/3690, l='ServerLevel[world]', x=-2029.70, y=82.19, z=947.32] died, message: 'Villager was slain by stevencrazy317'
 [13:54:55] [Server thread/INFO]: Villager class_1646['Villager'/3693, l='ServerLevel[world]', x=-2029.47, y=82.65, z=946.74] died, message: 'Villager was slain by stevencrazy317'
 [13:55:19] [Server thread/INFO]: [stevencrazy317: Set own game mode to Survival Mode]
+[14:04:29] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[14:04:29] [Server thread/INFO]: stevencrazy317 left the game
+[14:04:45] [Server thread/INFO]: Stopping the server
+[14:04:45] [Server thread/INFO]: Stopping server
+[14:04:45] [Server thread/INFO]: Saving players
+[14:04:45] [Server thread/INFO]: Saving worlds
+[14:04:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:04:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:04:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:04:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:04:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:04:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:04:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
