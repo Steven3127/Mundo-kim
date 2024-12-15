@@ -40,3 +40,19 @@
 [18:39:59] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
 [18:45:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2049, y=90, z=928} class_2338{x=-2048, y=88, z=927}
 [18:46:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2078, y=93, z=922} class_2338{x=-2078, y=92, z=921}
+[18:52:34] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[18:52:34] [Server thread/INFO]: stevencrazy317 left the game
+[18:53:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:54:17] [Server thread/INFO]: stevencrazy317[/100.99.54.86:54204] logged in with entity id 4240 at (-2011.291348181558, 94.0, 966.6999999880791)
+[18:54:17] [Server thread/INFO]: stevencrazy317 joined the game
+[18:54:19] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[18:54:32] [Server thread/INFO]: Aldea[local] logged in with entity id 4581 at (-2012.1568833998206, 94.0, 966.6999999880791)
+[18:54:32] [Server thread/INFO]: Aldea joined the game
+[18:54:40] [Server thread/INFO]: stevencrazy317 was killed
+[18:54:40] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
+[18:54:47] [Server thread/INFO]: stevencrazy317 was killed
+[18:54:47] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
+[18:55:43] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to Aldea]
+[18:55:47] [Server thread/INFO]: Aldea was slain by stevencrazy317
+[18:55:47] [Server thread/INFO]: Aldea lost connection: Aldea died
+[18:55:47] [Server thread/INFO]: Aldea left the game
