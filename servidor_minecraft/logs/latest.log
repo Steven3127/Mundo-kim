@@ -46,3 +46,10 @@
 [01:26:55] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
 [01:29:30] [Server thread/INFO]: [Not Secure] <stevencrazy317> a
 [01:32:53] [Server thread/WARN]: stevencrazy317 moved too quickly! 4.21511420671095,2.3093000194787976,8.847646921689943
+[01:39:38] [Server thread/INFO]: stevencrazy317 lost connection: Timed out
+[01:39:38] [Server thread/INFO]: stevencrazy317 left the game
+[01:39:38] [Server thread/WARN]: handleDisconnection() called twice
+[01:40:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:43:31] [Server thread/INFO]: stevencrazy317[/100.99.54.86:59396] logged in with entity id 2404 at (-2051.57796323454, 90.16610926093821, 931.3451762608208)
+[01:43:31] [Server thread/INFO]: stevencrazy317 joined the game
+[01:43:32] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
