@@ -49,3 +49,26 @@
 [03:01:39] [Server thread/INFO]: Locating element minecraft:swamp took 294 ms
 [03:01:42] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -1100.500000, 90.000000, 19.500000]
 [03:03:39] [Server thread/INFO]: stevencrazy317 was slain by Zombie
+[03:04:55] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[03:04:55] [Server thread/INFO]: stevencrazy317 left the game
+[03:05:38] [Server thread/INFO]: stevencrazy317[/100.99.54.86:53755] logged in with entity id 6708 at (-2061.5, 91.0, 932.5)
+[03:05:38] [Server thread/INFO]: stevencrazy317 joined the game
+[03:05:39] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[03:06:35] [Server thread/INFO]: alex lost connection: Killed
+[03:06:35] [Server thread/INFO]: alex left the game
+[03:06:57] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -1100.500000, 90.000000, 19.500000]
+[03:09:18] [Server thread/INFO]: Locating element minecraft:swamp took 0 ms
+[03:09:40] [Server thread/INFO]: Locating element minecraft:swamp took 0 ms
+[03:10:37] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[03:10:37] [Server thread/INFO]: stevencrazy317 left the game
+[03:10:55] [Server thread/INFO]: Stopping the server
+[03:10:55] [Server thread/INFO]: Stopping server
+[03:10:55] [Server thread/INFO]: Saving players
+[03:10:55] [Server thread/INFO]: Saving worlds
+[03:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
