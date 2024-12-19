@@ -1,80 +1,46 @@
-[01:23:58] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[01:23:59] [main/INFO]: Loading 6 mods:
+[02:24:26] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[02:24:26] [main/INFO]: Loading 6 mods:
 	- carpet 1.4.158+v241022
 	- carpet-extra 1.4.158
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.3
-[01:23:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:23:59] [main/INFO]: Compatibility level set to JAVA_17
-[01:24:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:24:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:24:12] [main/INFO]: Loaded 1337 recipes
-[01:24:12] [main/INFO]: Loaded 1448 advancements
-[01:24:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:24:12] [Server thread/INFO]: Loading properties
-[01:24:12] [Server thread/INFO]: Default game type: SURVIVAL
-[01:24:12] [Server thread/INFO]: Generating keypair
-[01:24:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:24:12] [Server thread/INFO]: Using epoll channel type
-[01:24:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:24:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:24:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:24:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:24:12] [Server thread/INFO]: Preparing level "world"
-[01:24:12] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
-[01:24:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:24:18] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[01:24:18] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[01:24:18] [Server thread/INFO]: Time elapsed: 5093 ms
-[01:24:18] [Server thread/INFO]: cs app loaded with /cs command
-[01:24:18] [Server thread/INFO]: App cs loaded in 19 ms
-[01:24:18] [Server thread/INFO]: Done (5.604s)! For help, type "help"
-[01:25:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:26:52] [Server thread/INFO]: stevencrazy317[/100.99.54.86:59226] logged in with entity id 5 at (-2032.3611497866837, 88.0, 925.1148791065291)
-[01:26:52] [Server thread/INFO]: stevencrazy317 joined the game
-[01:26:55] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[01:29:30] [Server thread/INFO]: [Not Secure] <stevencrazy317> a
-[01:32:53] [Server thread/WARN]: stevencrazy317 moved too quickly! 4.21511420671095,2.3093000194787976,8.847646921689943
-[01:39:38] [Server thread/INFO]: stevencrazy317 lost connection: Timed out
-[01:39:38] [Server thread/INFO]: stevencrazy317 left the game
-[01:39:38] [Server thread/WARN]: handleDisconnection() called twice
-[01:40:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:43:31] [Server thread/INFO]: stevencrazy317[/100.99.54.86:59396] logged in with entity id 2404 at (-2051.57796323454, 90.16610926093821, 931.3451762608208)
-[01:43:31] [Server thread/INFO]: stevencrazy317 joined the game
-[01:43:32] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[01:48:33] [Server thread/INFO]: alex[local] logged in with entity id 3491 at (-2009.2610907473227, 93.0, 965.228304185001)
-[01:48:33] [Server thread/INFO]: alex joined the game
-[01:48:47] [Server thread/INFO]: stevencrazy317 was killed
-[01:48:47] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
-[01:49:02] [Server thread/INFO]: stevencrazy317 was killed
-[01:49:02] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
-[01:52:00] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to alex]
-[01:52:06] [Server thread/INFO]: alex was slain by stevencrazy317
-[01:52:06] [Server thread/INFO]: alex lost connection: alex died
-[01:52:06] [Server thread/INFO]: alex left the game
-[02:04:59] [Server thread/INFO]: stevencrazy317 was slain by Zombie
-[02:06:53] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[02:06:53] [Server thread/INFO]: stevencrazy317 left the game
-[02:07:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:07:59] [Server thread/INFO]: Stopping the server
-[02:07:59] [Server thread/INFO]: Stopping server
-[02:07:59] [Server thread/INFO]: Saving players
-[02:07:59] [Server thread/INFO]: Saving worlds
-[02:07:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:07:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:07:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:07:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:24:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:24:26] [main/INFO]: Compatibility level set to JAVA_17
+[02:24:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:24:36] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:24:38] [main/INFO]: Loaded 1337 recipes
+[02:24:38] [main/INFO]: Loaded 1448 advancements
+[02:24:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:24:39] [Server thread/INFO]: Loading properties
+[02:24:39] [Server thread/INFO]: Default game type: SURVIVAL
+[02:24:39] [Server thread/INFO]: Generating keypair
+[02:24:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:24:39] [Server thread/INFO]: Using epoll channel type
+[02:24:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:24:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:24:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:24:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:24:39] [Server thread/INFO]: Preparing level "world"
+[02:24:39] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
+[02:24:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:43] [Server thread/INFO]: Time elapsed: 3591 ms
+[02:24:43] [Server thread/INFO]: cs app loaded with /cs command
+[02:24:43] [Server thread/INFO]: App cs loaded in 19 ms
+[02:24:43] [Server thread/INFO]: Done (4.217s)! For help, type "help"
+[02:25:29] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50437] logged in with entity id 44 at (-513.047877385843, 73.0, -119.30000001192093)
+[02:25:29] [Server thread/INFO]: stevencrazy317 joined the game
+[02:25:30] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[02:28:16] [Server thread/INFO]: Locating element #minecraft:allows_surface_slime_spawns (minecraft:swamp) took 5 ms
+[02:28:19] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -358.500000, 81.000000, -153.500000]
+[02:30:19] [Server thread/INFO]: Locating element minecraft:village_plains took 121 ms
+[02:30:21] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -2015.500000, 70.000000, 928.500000]
