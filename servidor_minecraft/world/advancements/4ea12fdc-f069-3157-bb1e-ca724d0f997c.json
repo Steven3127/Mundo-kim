@@ -211,6 +211,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-22 01:03:43 +0000",
+      "mutton": "2025-01-05 02:34:53 +0000",
       "bread": "2024-12-12 01:44:28 +0000",
       "cooked_chicken": "2024-12-12 00:43:31 +0000",
       "rotten_flesh": "2024-11-13 02:35:12 +0000",
@@ -2593,6 +2594,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-05 02:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-01-05 02:40:55 +0000"
     },
     "done": true
   },
