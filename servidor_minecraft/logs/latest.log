@@ -36,3 +36,8 @@
 [01:36:20] [Server thread/INFO]: App cs loaded in 17 ms
 [01:36:20] [Server thread/INFO]: Done (3.545s)! For help, type "help"
 [01:37:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:53:38] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50090] logged in with entity id 6 at (-1018.01462764, 70.0, -97.7212965598)
+[01:53:38] [Server thread/INFO]: stevencrazy317 joined the game
+[01:53:39] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[01:58:00] [Server thread/INFO]: Locating element minecraft:village_plains took 20 ms
+[01:58:03] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -2015.500000, 53.000000, 928.500000]
