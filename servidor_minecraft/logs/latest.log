@@ -1,74 +1,38 @@
-[02:24:26] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[02:24:26] [main/INFO]: Loading 6 mods:
+[01:36:03] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[01:36:04] [main/INFO]: Loading 6 mods:
 	- carpet 1.4.158+v241022
 	- carpet-extra 1.4.158
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.3
-[02:24:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:24:26] [main/INFO]: Compatibility level set to JAVA_17
-[02:24:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:24:36] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:24:38] [main/INFO]: Loaded 1337 recipes
-[02:24:38] [main/INFO]: Loaded 1448 advancements
-[02:24:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:24:39] [Server thread/INFO]: Loading properties
-[02:24:39] [Server thread/INFO]: Default game type: SURVIVAL
-[02:24:39] [Server thread/INFO]: Generating keypair
-[02:24:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:24:39] [Server thread/INFO]: Using epoll channel type
-[02:24:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:24:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:24:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:24:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:24:39] [Server thread/INFO]: Preparing level "world"
-[02:24:39] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
-[02:24:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:24:43] [Server thread/INFO]: Time elapsed: 3591 ms
-[02:24:43] [Server thread/INFO]: cs app loaded with /cs command
-[02:24:43] [Server thread/INFO]: App cs loaded in 19 ms
-[02:24:43] [Server thread/INFO]: Done (4.217s)! For help, type "help"
-[02:25:29] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50437] logged in with entity id 44 at (-513.047877385843, 73.0, -119.30000001192093)
-[02:25:29] [Server thread/INFO]: stevencrazy317 joined the game
-[02:25:30] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[02:28:16] [Server thread/INFO]: Locating element #minecraft:allows_surface_slime_spawns (minecraft:swamp) took 5 ms
-[02:28:19] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -358.500000, 81.000000, -153.500000]
-[02:30:19] [Server thread/INFO]: Locating element minecraft:village_plains took 121 ms
-[02:30:21] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -2015.500000, 70.000000, 928.500000]
-[02:59:31] [Server thread/INFO]: alex[local] logged in with entity id 5413 at (-2055.3772263594133, 88.0, 952.7013533461985)
-[02:59:31] [Server thread/INFO]: alex joined the game
-[03:01:39] [Server thread/INFO]: Locating element minecraft:swamp took 294 ms
-[03:01:42] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -1100.500000, 90.000000, 19.500000]
-[03:03:39] [Server thread/INFO]: stevencrazy317 was slain by Zombie
-[03:04:55] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[03:04:55] [Server thread/INFO]: stevencrazy317 left the game
-[03:05:38] [Server thread/INFO]: stevencrazy317[/100.99.54.86:53755] logged in with entity id 6708 at (-2061.5, 91.0, 932.5)
-[03:05:38] [Server thread/INFO]: stevencrazy317 joined the game
-[03:05:39] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[03:06:35] [Server thread/INFO]: alex lost connection: Killed
-[03:06:35] [Server thread/INFO]: alex left the game
-[03:06:57] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -1100.500000, 90.000000, 19.500000]
-[03:09:18] [Server thread/INFO]: Locating element minecraft:swamp took 0 ms
-[03:09:40] [Server thread/INFO]: Locating element minecraft:swamp took 0 ms
-[03:10:37] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[03:10:37] [Server thread/INFO]: stevencrazy317 left the game
-[03:10:55] [Server thread/INFO]: Stopping the server
-[03:10:55] [Server thread/INFO]: Stopping server
-[03:10:55] [Server thread/INFO]: Saving players
-[03:10:55] [Server thread/INFO]: Saving worlds
-[03:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:10:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:10:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:36:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:36:04] [main/INFO]: Compatibility level set to JAVA_17
+[01:36:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:36:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:36:16] [main/INFO]: Loaded 1337 recipes
+[01:36:16] [main/INFO]: Loaded 1448 advancements
+[01:36:16] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:36:16] [Server thread/INFO]: Loading properties
+[01:36:16] [Server thread/INFO]: Default game type: SURVIVAL
+[01:36:16] [Server thread/INFO]: Generating keypair
+[01:36:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:36:16] [Server thread/INFO]: Using epoll channel type
+[01:36:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:36:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:36:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:36:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:36:16] [Server thread/INFO]: Preparing level "world"
+[01:36:16] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
+[01:36:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:36:20] [Server thread/INFO]: Time elapsed: 2724 ms
+[01:36:20] [Server thread/INFO]: cs app loaded with /cs command
+[01:36:20] [Server thread/INFO]: App cs loaded in 17 ms
+[01:36:20] [Server thread/INFO]: Done (3.545s)! For help, type "help"
+[01:37:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
