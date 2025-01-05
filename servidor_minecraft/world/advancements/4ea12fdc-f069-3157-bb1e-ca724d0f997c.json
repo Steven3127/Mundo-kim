@@ -214,7 +214,8 @@
       "cooked_chicken": "2024-12-12 00:43:31 +0000",
       "rotten_flesh": "2024-11-13 02:35:12 +0000",
       "cooked_mutton": "2024-11-13 02:23:16 +0000",
-      "cooked_cod": "2024-11-17 05:54:55 +0000"
+      "cooked_cod": "2024-11-17 05:54:55 +0000",
+      "sweet_berries": "2025-01-05 02:23:21 +0000"
     },
     "done": false
   },
@@ -447,7 +448,8 @@
       "minecraft:enderman": "2024-12-15 13:45:25 +0000",
       "minecraft:spider": "2024-11-13 02:47:56 +0000",
       "minecraft:zombie": "2024-11-13 02:30:34 +0000",
-      "minecraft:creeper": "2024-11-13 02:30:33 +0000"
+      "minecraft:creeper": "2024-11-13 02:30:33 +0000",
+      "minecraft:slime": "2025-01-05 02:20:45 +0000"
     },
     "done": false
   },
@@ -2566,6 +2568,24 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-05 02:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 02:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 02:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 02:20:58 +0000"
     },
     "done": true
   },
