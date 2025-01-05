@@ -17,6 +17,7 @@
       "minecraft:river": "2024-11-17 05:58:56 +0000",
       "minecraft:lukewarm_ocean": "2024-12-13 00:47:05 +0000",
       "minecraft:dripstone_caves": "2024-12-14 01:29:28 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-05 02:23:55 +0000",
       "minecraft:windswept_forest": "2025-01-05 02:10:59 +0000",
       "minecraft:deep_dark": "2024-12-14 01:35:43 +0000",
       "minecraft:ocean": "2024-11-13 02:31:23 +0000",
@@ -2577,6 +2578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-05 02:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-05 02:20:58 +0000"
@@ -2586,6 +2593,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-05 02:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-05 02:33:10 +0000"
     },
     "done": true
   },
