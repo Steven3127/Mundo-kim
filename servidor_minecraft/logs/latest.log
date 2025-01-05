@@ -41,3 +41,12 @@
 [01:53:39] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
 [01:58:00] [Server thread/INFO]: Locating element minecraft:village_plains took 20 ms
 [01:58:03] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -2015.500000, 53.000000, 928.500000]
+[02:08:38] [Server thread/INFO]: Aldea[local] logged in with entity id 3129 at (-2073.21976833024, 91.0, 936.4096590342339)
+[02:08:39] [Server thread/INFO]: Aldea joined the game
+[02:10:36] [Server thread/INFO]: Locating element minecraft:taiga took 1426 ms
+[02:10:41] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to 511.500000, 88.000000, 3460.500000]
+[02:10:44] [Server thread/WARN]: stevencrazy317 moved too quickly! 0.0,-10.806526110008988,0.0
+[02:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[02:13:30] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[02:13:30] [Server thread/INFO]: stevencrazy317 left the game
+[02:14:43] [Server thread/INFO]: Villager class_1646['Leatherworker'/1421, l='ServerLevel[world]', x=-2020.78, y=95.50, z=913.50] died, message: 'Leatherworker was slain by Zombie'

@@ -11,11 +11,13 @@
       "minecraft:beach": "2024-11-13 03:25:04 +0000",
       "minecraft:stony_peaks": "2024-12-14 00:56:05 +0000",
       "minecraft:forest": "2024-12-14 00:45:01 +0000",
+      "minecraft:taiga": "2025-01-05 02:10:44 +0000",
       "minecraft:sparse_jungle": "2024-12-14 01:32:37 +0000",
       "minecraft:deep_ocean": "2024-11-23 01:54:03 +0000",
       "minecraft:river": "2024-11-17 05:58:56 +0000",
       "minecraft:lukewarm_ocean": "2024-12-13 00:47:05 +0000",
       "minecraft:dripstone_caves": "2024-12-14 01:29:28 +0000",
+      "minecraft:windswept_forest": "2025-01-05 02:10:59 +0000",
       "minecraft:deep_dark": "2024-12-14 01:35:43 +0000",
       "minecraft:ocean": "2024-11-13 02:31:23 +0000",
       "minecraft:jungle": "2024-12-14 00:52:26 +0000",
@@ -2552,6 +2554,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-16 01:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 02:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 02:11:32 +0000"
     },
     "done": true
   },
