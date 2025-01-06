@@ -1,78 +1,166 @@
-[01:36:03] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[01:36:04] [main/INFO]: Loading 6 mods:
-	- carpet 1.4.158+v241022
-	- carpet-extra 1.4.158
+[02:22:14] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[02:22:15] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.3
-[01:36:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:36:04] [main/INFO]: Compatibility level set to JAVA_17
-[01:36:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:36:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:36:16] [main/INFO]: Loaded 1337 recipes
-[01:36:16] [main/INFO]: Loaded 1448 advancements
-[01:36:16] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:36:16] [Server thread/INFO]: Loading properties
-[01:36:16] [Server thread/INFO]: Default game type: SURVIVAL
-[01:36:16] [Server thread/INFO]: Generating keypair
-[01:36:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:36:16] [Server thread/INFO]: Using epoll channel type
-[01:36:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:36:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:36:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:36:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:36:16] [Server thread/INFO]: Preparing level "world"
-[01:36:16] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
-[01:36:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:36:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:36:20] [Server thread/INFO]: Time elapsed: 2724 ms
-[01:36:20] [Server thread/INFO]: cs app loaded with /cs command
-[01:36:20] [Server thread/INFO]: App cs loaded in 17 ms
-[01:36:20] [Server thread/INFO]: Done (3.545s)! For help, type "help"
-[01:37:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:53:38] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50090] logged in with entity id 6 at (-1018.01462764, 70.0, -97.7212965598)
-[01:53:38] [Server thread/INFO]: stevencrazy317 joined the game
-[01:53:39] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[01:58:00] [Server thread/INFO]: Locating element minecraft:village_plains took 20 ms
-[01:58:03] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to -2015.500000, 53.000000, 928.500000]
-[02:08:38] [Server thread/INFO]: Aldea[local] logged in with entity id 3129 at (-2073.21976833024, 91.0, 936.4096590342339)
-[02:08:39] [Server thread/INFO]: Aldea joined the game
-[02:10:36] [Server thread/INFO]: Locating element minecraft:taiga took 1426 ms
-[02:10:41] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to 511.500000, 88.000000, 3460.500000]
-[02:10:44] [Server thread/WARN]: stevencrazy317 moved too quickly! 0.0,-10.806526110008988,0.0
-[02:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[02:13:30] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[02:13:30] [Server thread/INFO]: stevencrazy317 left the game
-[02:14:43] [Server thread/INFO]: Villager class_1646['Leatherworker'/1421, l='ServerLevel[world]', x=-2020.78, y=95.50, z=913.50] died, message: 'Leatherworker was slain by Zombie'
-[02:19:06] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50196] logged in with entity id 5229 at (503.06633823606035, 70.0, 3482.612033919264)
-[02:19:06] [Server thread/INFO]: stevencrazy317 joined the game
-[02:19:07] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[02:34:57] [Server thread/INFO]: stevencrazy317 was shot by Bogged
-[02:39:28] [Server thread/INFO]: stevencrazy317 was slain by Slime
-[02:44:50] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[02:44:50] [Server thread/INFO]: stevencrazy317 left the game
-[03:48:09] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50459] logged in with entity id 21295 at (-2061.792383554004, 91.0, 924.8686502156352)
-[03:48:09] [Server thread/INFO]: stevencrazy317 joined the game
-[03:48:09] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[03:52:04] [Server thread/INFO]: Aldea lost connection: Killed
-[03:52:04] [Server thread/INFO]: Aldea left the game
-[03:56:16] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[03:56:16] [Server thread/INFO]: stevencrazy317 left the game
-[03:57:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:58:01] [Server thread/INFO]: Stopping the server
-[03:58:01] [Server thread/INFO]: Stopping server
-[03:58:01] [Server thread/INFO]: Saving players
-[03:58:01] [Server thread/INFO]: Saving worlds
-[03:58:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:58:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:58:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:58:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:58:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:58:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:58:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:22:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Mundo-kim/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:22:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:22:21] [main/INFO]: No existing world data, creating new world
+[02:22:21] [main/INFO]: Loaded 1337 recipes
+[02:22:21] [main/INFO]: Loaded 1448 advancements
+[02:22:22] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:22:22] [Server thread/INFO]: Loading properties
+[02:22:22] [Server thread/INFO]: Default game type: SURVIVAL
+[02:22:22] [Server thread/INFO]: Generating keypair
+[02:22:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:22:22] [Server thread/INFO]: Using epoll channel type
+[02:22:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:22:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:22:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:22:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:22:22] [Server thread/INFO]: Preparing level "world"
+[02:22:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:22:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:22:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:22:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:22:28] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:22:29] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[02:22:29] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[02:22:30] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:22:30] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[02:22:31] [Server thread/INFO]: Time elapsed: 3860 ms
+[02:22:31] [Server thread/INFO]: Done (8.911s)! For help, type "help"
+[02:23:16] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50133] logged in with entity id 26 at (55.5, 65.0, -90.5)
+[02:23:16] [Server thread/INFO]: stevencrazy317 joined the game
+[02:25:48] [Server thread/INFO]: kimbely[/100.109.196.70:61363] logged in with entity id 853 at (63.5, 67.0, -101.5)
+[02:25:48] [Server thread/INFO]: kimbely joined the game
+[02:26:06] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya?
+[02:26:10] [Server thread/INFO]: [Not Secure] <kimbely> ya
+[02:27:36] [Server thread/INFO]: [Not Secure] <stevencrazy317> para q picas
+[02:27:43] [Server thread/INFO]: kimbely has made the advancement [Stone Age]
+[02:27:48] [Server thread/INFO]: [Not Secure] <kimbely> quiero piedra
+[02:27:52] [Server thread/INFO]: [Not Secure] <stevencrazy317> habiendo tanta piedra por alla
+[02:28:23] [Server thread/INFO]: stevencrazy317 has made the advancement [Stone Age]
+[02:28:24] [Server thread/INFO]: [Not Secure] <kimbely> donde tas
+[02:29:19] [Server thread/INFO]: [Not Secure] <kimbely> donde estassssssssssssss
+[02:29:24] [Server thread/INFO]: [Not Secure] <kimbely> veni conmigo
+[02:29:27] [Server thread/INFO]: [Not Secure] <stevencrazy317> en tu corazon bb
+[02:29:35] [Server thread/INFO]: [Not Secure] <stevencrazy317> traes la mesa?
+[02:29:39] [Server thread/INFO]: [Not Secure] <kimbely> si
+[02:29:44] [Server thread/INFO]: [Not Secure] <stevencrazy317> ponela
+[02:29:55] [Server thread/INFO]: [Not Secure] <kimbely> va pero yo ya me fui
+[02:30:18] [Server thread/INFO]: kimbely has made the advancement [Getting an Upgrade]
+[02:30:36] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[02:30:36] [Server thread/INFO]: stevencrazy317 left the game
+[02:31:13] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50162] logged in with entity id 1880 at (-21.915116877122493, 64.0, -88.86980730886091)
+[02:31:13] [Server thread/INFO]: stevencrazy317 joined the game
+[02:31:23] [Server thread/INFO]: [Not Secure] <kimbely> que dice ese letrero
+[02:31:26] [Server thread/INFO]: [Not Secure] <kimbely> no entendi
+[02:31:28] [Server thread/INFO]: [Not Secure] <kimbely> jajajaaja
+[02:31:34] [Server thread/INFO]: stevencrazy317 has made the advancement [Glow and Behold!]
+[02:31:45] [Server thread/INFO]: [Not Secure] <kimbely> awwww
+[02:31:46] [Server thread/INFO]: [Not Secure] <stevencrazy317> es q se me habia laguiado el mine
+[02:31:48] [Server thread/INFO]: [Not Secure] <kimbely> que chulo
+[02:32:08] [Server thread/INFO]: [Not Secure] <stevencrazy317> nada q chulo sacate una teta
+[02:32:10] [Server thread/INFO]: [Not Secure] <stevencrazy317> jjaa
+[02:32:17] [Server thread/INFO]: [Not Secure] <kimbely> khe
+[02:32:18] [Server thread/INFO]: stevencrazy317 has made the advancement [Getting an Upgrade]
+[02:32:34] [Server thread/INFO]: [Not Secure] <stevencrazy317> ovejas
+[02:32:40] [Server thread/INFO]: [Not Secure] <kimbely> mañana
+[02:32:54] [Server thread/INFO]: [Not Secure] <stevencrazy317> pspsps ovejitas
+[02:33:00] [Server thread/INFO]: [Not Secure] <kimbely> jajajaja sho
+[02:33:28] [Server thread/INFO]: [Not Secure] <stevencrazy317> pa ti
+[02:33:36] [Server thread/INFO]: [Not Secure] <kimbely> gachasss
+[02:33:37] [Server thread/INFO]: [Not Secure] <stevencrazy317> le valia v**
+[02:33:39] [Server thread/INFO]: [Not Secure] <stevencrazy317> jaja
+[02:33:41] [Server thread/INFO]: [Not Secure] <kimbely> a?
+[02:33:49] [Server thread/INFO]: [Not Secure] <stevencrazy317> es q te la di y te fuiste
+[02:35:36] [Server thread/INFO]: [Not Secure] <kimbely> dame madera
+[02:35:38] [Server thread/INFO]: [Not Secure] <kimbely> pofavo
+[02:35:57] [Server thread/INFO]: [Not Secure] <stevencrazy317> yo solo un arbol corte xd
+[02:36:01] [Server thread/INFO]: [Not Secure] <kimbely> nmms
+[02:37:41] [Server thread/INFO]: [Not Secure] <stevencrazy317> gracias
+[02:38:09] [Server thread/INFO]: [Not Secure] <kimbely> a va
+[02:38:55] [Server thread/INFO]: [Not Secure] <kimbely> vamos a minar
+[02:39:05] [Server thread/INFO]: [Not Secure] <stevencrazy317> y q toy haciendo?
+[02:39:11] [Server thread/INFO]: [Not Secure] <kimbely> un cubo
+[02:39:17] [Server thread/INFO]: [Not Secure] <stevencrazy317> pera pe
+[02:39:37] [Server thread/INFO]: [Not Secure] <stevencrazy317> aqui cerca solo tenemos minas inundadas
+[02:39:43] [Server thread/INFO]: [Not Secure] <kimbely> a
+[02:40:11] [Server thread/INFO]: [Not Secure] <stevencrazy317> vengache para aca
+[02:40:20] [Server thread/INFO]: [Not Secure] <kimbely> y diamante pal fri
+[02:41:25] [Server thread/INFO]: [Not Secure] <stevencrazy317> cobre
+[02:42:37] [Server thread/INFO]: [Not Secure] <kimbely> donde tas
+[02:42:42] [Server thread/INFO]: [Not Secure] <stevencrazy317> aqui
+[02:43:00] [Server thread/INFO]: Made stevencrazy317 a server operator
+[02:43:35] [Server thread/INFO]: [Not Secure] <kimbely> a
+[02:44:38] [Server thread/INFO]: [Not Secure] <stevencrazy317> tamos cerca
+[02:44:48] [Server thread/INFO]: [Not Secure] <kimbely> okiiiiii
+[02:44:57] [Server thread/INFO]: [Not Secure] <kimbely> sigue puta, sigue
+[02:45:19] [Server thread/INFO]: [Not Secure] <stevencrazy317> sospechoso
+[02:45:23] [Server thread/INFO]: [Not Secure] <kimbely> porrr
+[02:45:32] [Server thread/INFO]: [Not Secure] <kimbely> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[02:45:34] [Server thread/INFO]: [Not Secure] <kimbely> esoo
+[02:45:34] [Server thread/INFO]: [Not Secure] <stevencrazy317> tas muy pegada a yo
+[02:45:36] [Server thread/INFO]: [Not Secure] <kimbely> jajajaja
+[02:45:40] [Server thread/INFO]: [Not Secure] <kimbely> arcilla
+[02:45:42] [Server thread/INFO]: [Not Secure] <stevencrazy317> eso significa que quieres un beso
+[02:45:47] [Server thread/INFO]: [Not Secure] <kimbely> nmms
+[02:45:52] [Server thread/INFO]: [Not Secure] <kimbely> ajajjajajajajaja
+[02:45:59] [Server thread/INFO]: [Not Secure] <kimbely> JAJAJAJAJA
+[02:46:19] [Server thread/INFO]: [Not Secure] <stevencrazy317> eeeeeeeeee
+[02:46:28] [Server thread/INFO]: [Not Secure] <kimbely> ya es de dia?
+[02:46:35] [Server thread/INFO]: [Not Secure] <stevencrazy317> ns carnal
+[02:46:46] [Server thread/INFO]: [Not Secure] <stevencrazy317> no esta lloviendo
+[02:46:57] [Server thread/INFO]: [Not Secure] <kimbely> a
+[02:47:07] [Server thread/INFO]: [Not Secure] <stevencrazy317> me quede sin pico
+[02:47:19] [Server thread/INFO]: [Not Secure] <kimbely> cual era el comando
+[02:47:21] [Server thread/INFO]: [Not Secure] <kimbely> pa ver
+[02:47:34] [Server thread/INFO]: [Not Secure] <kimbely> o sea como que volar
+[02:47:35] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya no existe como borre todo
+[02:47:40] [Server thread/INFO]: [Not Secure] <kimbely> noooooooooooooooooo
+[02:47:48] [Server thread/INFO]: [Not Secure] <stevencrazy317> otro dia lo pongo
+[02:48:13] [Server thread/INFO]: stevencrazy317 was slain by Zombie
+[02:48:21] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to kimbely]
+[02:48:41] [Server thread/INFO]: [Not Secure] <stevencrazy317> diamantes
+[02:48:56] [Server thread/INFO]: [Not Secure] <kimbely> necesitamos hierroooo
+[02:49:33] [Server thread/INFO]: kimbely has made the advancement [Monster Hunter]
+[02:49:33] [Server thread/INFO]: [Not Secure] <stevencrazy317> no tengo nada
+[02:49:59] [Server thread/INFO]: [Not Secure] <kimbely> me tengo que ir
+[02:50:01] [Server thread/INFO]: [Not Secure] <kimbely> te quierooo
+[02:50:03] [Server thread/INFO]: [Not Secure] <stevencrazy317> :(
+[02:50:04] [Server thread/INFO]: [Not Secure] <kimbely> chauuu
+[02:50:15] [Server thread/INFO]: stevencrazy317 has made the advancement [Monster Hunter]
+[02:50:18] [Server thread/INFO]: [Not Secure] <kimbely> perate
+[02:50:19] [Server thread/INFO]: [Not Secure] <stevencrazy317> yo tambien
+[02:50:20] [Server thread/INFO]: [Not Secure] <kimbely> perate
+[02:50:22] [Server thread/INFO]: [Not Secure] <kimbely> aun no
+[02:50:35] [Server thread/INFO]: [Not Secure] <kimbely> ya tengo hierro
+[02:50:37] [Server thread/INFO]: [Not Secure] <stevencrazy317> casi muero y no haces nada
+[02:50:42] [Server thread/INFO]: [Not Secure] <stevencrazy317> >:v
+[02:50:53] [Server thread/INFO]: [Not Secure] <kimbely> a
+[02:50:55] [Server thread/INFO]: [Not Secure] <kimbely> JAJAJAJA
+[02:51:04] [Server thread/INFO]: [Not Secure] <stevencrazy317> venite
+[02:51:16] [Server thread/INFO]: [Not Secure] <stevencrazy317> son de veneno
+[02:51:35] [Server thread/INFO]: [Not Secure] <stevencrazy317> tienes espada?
+[02:51:37] [Server thread/INFO]: [Not Secure] <kimbely> ya me3 voyyyy}
+[02:51:39] [Server thread/INFO]: [Not Secure] <kimbely> xauuu
+[02:51:41] [Server thread/INFO]: [Not Secure] <stevencrazy317> vayaaaaaa
+[02:51:41] [Server thread/INFO]: [Not Secure] <kimbely> te quierooo
+[02:51:43] [Server thread/INFO]: [Not Secure] <stevencrazy317> te quierooooooooo
+[02:51:48] [Server thread/INFO]: kimbely lost connection: Disconnected
+[02:51:48] [Server thread/INFO]: kimbely left the game
+[02:51:58] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[02:51:58] [Server thread/INFO]: stevencrazy317 left the game
+[02:52:06] [Server thread/INFO]: Stopping the server
+[02:52:06] [Server thread/INFO]: Stopping server
+[02:52:06] [Server thread/INFO]: Saving players
+[02:52:06] [Server thread/INFO]: Saving worlds
+[02:52:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:52:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:52:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:52:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
